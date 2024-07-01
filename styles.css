@@ -1,0 +1,30 @@
+h2{
+  font-family:Raleway;
+}
+p{
+   font-family:Raleway;
+  padding-left:200px;
+   padding-right:200px;
+}
+h1{
+   font-family:Raleway;
+}
+.frog{
+  border-radius: 50%;
+  width: 200px;
+  max-width: 200px;
+ max-height: 200px;
+  height: auto;
+  object-fit: fill;
+}
+body{
+  text-align:center;
+}
+.rickroll{
+   border-radius: 50%;
+  width: 200px;
+  max-width: 200px;
+ max-height: 200px;
+  height: auto;
+  object-fit: fill;
+}
